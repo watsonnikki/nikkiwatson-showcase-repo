@@ -5,18 +5,19 @@ Welcome to my GitHub repository! This collection showcases my data science, engi
 1. Optimal Sequencing of Biologic Treatment Progression in Crohn’s Disease
 Description: Explores the impact of treatment sequencing on Crohn's Disease outcomes using computational simulations.  
 Technologies: Python, Computational Modeling  
-Highlights: Analyzed biologic treatment efficacy, providing insights into optimal sequencing strategies.
+Highlights: Analyzed biologic treatment efficacy, providing insights into optimal sequencing strategies.  
 Link: https://github.com/watsonnikki/nikkiwatson-showcase-repo/tree/219258dc09bc21f09957d537bad382f0506c047c/project1_DiseaseSimulation  
 
 3. Analytics Dashboard for U.S. Chronic Disease Indicators
-Description: Developed an interactive dashboard using Plotly Dash to visualize and analyze chronic disease data.
-Technologies: Python, Plotly Dash, Machine Learning
+Description: Developed an interactive dashboard using Plotly Dash to visualize and analyze chronic disease data.  
+Technologies: Python, Plotly Dash, Machine Learning  
 Highlights: Created 15+ interactive visualizations and a predictive analytics pipeline; deployed on Google Cloud Platform.
+Link: https://github.com/watsonnikki/nikkiwatson-showcase-repo/tree/f416aecd92fb0e849eac9b2fa749ce3c812ac32d/project2_HealthDataAnalytics
 
-4. Climate & Contagion: Effects of Global Warming on Flu Incidence
-Description: Examines the correlation between climate change and flu incidences in the U.S.
-Technologies: R, Plotly, Machine Learning
-Highlights: Analyzed historical data, developed models to predict flu trends considering climate factors.
+5. Climate & Contagion: Effects of Global Warming on Flu Incidence
+Description: Examines the correlation between climate change and flu incidences in the U.S.  
+Technologies: R, Plotly, Machine Learning  
+Highlights: Analyzed historical data, developed models to predict flu trends considering climate factors.  
 
 ## Skills and Technologies
 **Programming Languages:** Python, R, Bash
